@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: ee8ea8b6780264541b6acfa7805a359b
+timeCreated: 1474896045
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotBoyRunSpriteRed_0
+    21300002: RobotBoyRunSpriteRed_1
+    21300004: RobotBoyRunSpriteRed_2
+    21300006: RobotBoyRunSpriteRed_3
+    21300008: RobotBoyRunSpriteRed_4
+    21300010: RobotBoyRunSpriteRed_5
+    21300012: RobotBoyRunSpriteRed_6
+    21300014: RobotBoyRunSpriteRed_7
+    21300016: RobotBoyRunSpriteRed_8
+    21300018: RobotBoyRunSpriteRed_9
+    21300020: RobotBoyRunSpriteRed_10
+    21300022: RobotBoyRunSpriteRed_11
+    21300024: RobotBoyRunSpriteRed_12
+    21300026: RobotBoyRunSpriteRed_13
+    21300028: RobotBoyRunSpriteRed_14
+    21300030: RobotBoyRunSpriteRed_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1812
+        width: 120
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1800
+        width: 111
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1788
+        width: 101
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1787
+        width: 100
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_4
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1786
+        width: 112
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_5
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1792
+        width: 118
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_6
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1809
+        width: 129
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1550
+        width: 137
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1540
+        width: 126
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1521
+        width: 120
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_10
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1511
+        width: 105
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_11
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1508
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_12
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1508
+        width: 105
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_13
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1508
+        width: 110
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1247
+        width: 120
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RobotBoyRunSpriteRed_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1263
+        width: 120
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
